@@ -1,5 +1,5 @@
 
-import torta from "src/assets/img/torta.png"
+import torta from 'src/assets/img/torta.png';
 
 
 const Home = ()=>{
